@@ -1,0 +1,2 @@
+# zeroajg
+Zero kontol
