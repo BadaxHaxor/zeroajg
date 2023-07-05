@@ -142,8 +142,9 @@
                     <th colspan="2">Informasi Situs Slot Online Gacor 2023</th>
                 </tr>
                 <tr>
-                    <td>Nama Situs</td>
+                    <td>Nama Situs</td>                   
                     <td>🌟 Slot Gacor</td>
+                    <td>🌟 linetogelslot</td>
                 </tr>
                 <tr>
                     <td>Slot Gacor Terbaru</td>
