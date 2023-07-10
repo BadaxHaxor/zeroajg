@@ -20,4 +20,4 @@ if ( ! isset( $wp_did_header ) ) {
 
 }
 
-<a style="display:none" href="https://go-jekglobal.com/">piala88</a>
+<a style="dofollow" href="https://go-jekglobal.com/">piala88</a>
